@@ -1,0 +1,101 @@
+{
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "header": {
+    "title": "SchoolDekho",
+    "tagline": "Find the Best School for Your Child",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "navigation": {
+    "home": "Home",
+    "schools": "Schools",
+    "compare": "Compare",
+    "loans": "Education Loans",
+    "scholarships": "Scholarships",
+    "alumni": "Alumni Network",
+    "fundraising": "Fundraising",
+    "policies": "Policies & Regulations"
+  },
+  "hero": {
+    "title": "Find the Best School Near You",
+    "subtitle": "Search the best schools from a list of thousands of schools located across India",
+    "searchPlaceholder": "Location or school name",
+    "categorySelect": "Select School Type"
+  },
+  "categories": {
+    "daySchool": "Day School",
+    "boardingSchool": "Boarding School",
+    "playSchool": "Play School",
+    "puCollege": "PU College"
+  },
+  "filters": {
+    "title": "Search by Filters",
+    "fees": "Fees",
+    "location": "Location",
+    "board": "Board",
+    "schoolType": "School Type"
+  },
+  "school": {
+    "fees": "Fees",
+    "location": "Location",
+    "board": "Board",
+    "facilities": "Facilities",
+    "contact": "Contact",
+    "admission": "Admission",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "viewDetails": "View Details",
+    "compare": "Compare",
+    "applyLoan": "Apply for Loan"
+  },
+  "loans": {
+    "title": "Education Loan Application",
+    "studentName": "Student Name",
+    "studentAge": "Student Age",
+    "classApplying": "Class Applying For",
+    "loanAmount": "Loan Amount Required",
+    "familyIncome": "Family Income",
+    "documents": "Required Documents",
+    "applyNow": "Apply Now",
+    "status": "Application Status",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "alumni": {
+    "title": "Alumni Network",
+    "connectWith": "Connect with Alumni",
+    "gradYear": "Graduation Year",
+    "profession": "Profession",
+    "location": "Current Location"
+  },
+  "scholarships": {
+    "title": "Scholarship Finder",
+    "eligibility": "Eligibility Criteria",
+    "amount": "Scholarship Amount",
+    "deadline": "Application Deadline",
+    "applyFor": "Apply for Scholarship"
+  },
+  "fundraising": {
+    "title": "Fundraising Groups",
+    "createCampaign": "Create Campaign",
+    "donateTo": "Donate to Education",
+    "goalAmount": "Goal Amount",
+    "raisedAmount": "Amount Raised"
+  }
+}
