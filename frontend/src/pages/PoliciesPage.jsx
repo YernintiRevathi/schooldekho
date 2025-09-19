@@ -10,7 +10,7 @@ const PoliciesPage = () => {
     { key: 'safety', label: 'Safety & Security', icon: Shield },
     { key: 'conduct', label: 'Code of Conduct', icon: Users },
     { key: 'privacy', label: 'Privacy Policy', icon: FileText },
-    { key: 'uniform', label: 'Uniform Guidelines', icon: Uniform },
+    { key: 'uniform', label: 'Uniform Guidelines', icon: Shirt },
     { key: 'academic', label: 'Academic Policies', icon: Book },
     { key: 'emergency', label: 'Emergency Procedures', icon: AlertTriangle }
   ];
