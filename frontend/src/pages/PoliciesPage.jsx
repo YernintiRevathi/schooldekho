@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Shield, FileText, Users, AlertTriangle, CheckCircle, Book, Uniform } from 'lucide-react';
+import { Shield, FileText, Users, AlertTriangle, CheckCircle, Book, Shirt } from 'lucide-react';
 
 const PoliciesPage = () => {
   const { t } = useTranslation();
